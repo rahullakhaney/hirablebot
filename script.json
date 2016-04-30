@@ -3,7 +3,7 @@
     "HELLO": "Get started by saying BOT.",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
-    "MORE": "Ok, here's other stuff to check out.\n %[Childhood](postback:childhood_details) %[Education](postback: education_details) %[Career](postback:career_details) \n Or maybe you want interesting nuggets or to talk directly with Rahul... %[One Random Fact!](postback:one_random_fact) %[Connect with Rahul](postback:connect_with_rahul) ",
+    "MORE": "Ok, here's other stuff to check out.\n %[Childhood](postback:childhood_details) %[Education](postback:education_details) %[Career](postback:career_details) \n Or maybe you want interesting nuggets or to talk directly with Rahul... %[One Random Fact!](postback:one_random_fact) %[Connect with Rahul](postback:connect_with_rahul) ",
     "Hi": "Hi, Get started by saying BOT.",
     ":)": ":) right back at you",
     "CONNECT ME": "",
