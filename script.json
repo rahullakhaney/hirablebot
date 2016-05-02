@@ -1,5 +1,6 @@
 {
     "BOT": "Hi there!\nI’m the personal bot of Rahul, a Full stack developer from New Delhi, India.\n![Rahul](https://raw.githubusercontent.com/rahullakhaney/hirablebot/master/img/avatar.png)\nWant to know more about bots or learn about Rahul? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Rahul](postback:learn_about_rahul) %[One random fact!](postback:random_fact)",
+    "here_for_the_bot": "Hello World",
     "HELLO": "Get started by saying BOT.",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
